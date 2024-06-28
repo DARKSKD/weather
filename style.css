@@ -1,0 +1,131 @@
+.back {
+    background-image: url("https://res.cloudinary.com/dybktfmor/image/upload/v1718286652/pexels-pixabay-531767_cnjopa.jpg");
+    width: 102vw;
+    background-size: cover;
+    overflow: hidden;
+}
+.back-1{
+    background-color: transparent;
+}
+.brand {
+    color: #ffffff;
+    transition: 0.5s;
+}
+
+.brand-logo {
+    height: 30px;
+    transition: 0.5s in;
+}
+
+.brand-logo:hover {
+    transform: scale(0.9);
+}
+
+.brand:hover {
+    transform: scale(0.9);
+}
+
+#city_input {
+    width: 70vw;
+    border-radius: 20px;
+    border-width: 0px;
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #009AD8;
+    background-color: #1E202B;
+    opacity: 0.9;
+}
+
+.place {
+    padding-top: 30px;
+    margin-bottom: 40px;
+}
+
+
+.button-1 {
+    width: 100px;
+    padding: 10px;
+    border-radius: 20px;
+    color: #009AD8;
+    background-color: #1E202B;
+    margin-left: 30px;
+    border-width: 0px;
+    opacity: 0.9;
+    transition: 0.5s;
+}
+
+.button-1:hover {
+    background-color: #162cb8;
+    color: #ffffff;
+    transform: scale(0.9);
+}
+
+.head-1 {
+    font-size: 35px;
+    color: #5E82F4;
+}
+
+.head-4 {
+    font-size: 15px;
+    color: #5E82F4;
+}
+
+.head-2 {
+    font-size: 30px;
+    color: #5E82F4;
+}
+
+.head-3 {
+    font-size: 20px;
+    color: #5E82F4;
+}
+
+.head-5 {
+    font-size: 20px;
+    color: #5E82F4;
+
+}
+
+.para-1 {
+    font-size: 18px;
+    color: #5E82F4;
+}
+
+
+.umbrella {
+    font-size: 20px;
+    color: #5E82F4;
+}
+
+.wind_flow {
+    font-size: 20px;
+    color: #5E82F4;
+}
+
+.border_card {
+    padding: 30px;
+    border-width: 2px;
+    border-style: double;
+    border-color: #5E82F4;
+    border-radius: 20px;
+    background-color: #ffffff;
+    opacity: 0.75;
+}
+
+.photo-1 {
+    height: 150px;
+}
+
+.border_card_2 {
+    padding: 20px;
+    border-width: 2px;
+    border-style: dotted;
+    border-color: #5E82F4;
+    border-radius: 20px;
+    margin: 5px;
+    background-color: #ffffff;
+    opacity: 0.75;
+    align-content: center;
+}
+
